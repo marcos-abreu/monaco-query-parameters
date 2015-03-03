@@ -1,0 +1,29 @@
+{
+  "name": "monaco-query-parameters",
+  "description": "bind between monaco framework and backbone-query-parameters plugin",
+  "version": "1.0.0",
+  "homepage": "https://github.com/marcos-abreu/monaco-query-parameters",
+  "authors": [
+    "Marcos Abreu <abreu.marcos@gmail.com>"
+  ],
+  "main": "monaco-query-parameters.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "monaco",
+    "backbone",
+    "backbone-query-parameters",
+    "query-parameters"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
